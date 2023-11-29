@@ -1,0 +1,57 @@
+
+.SignUp-Container{
+    width: 1440px;
+    height: 1024px;
+    /* background: #FAFCFE; */
+    background-color:#FAFCFE;
+
+ 
+    
+}
+
+
+.box-container{
+    width: 1120px;
+    height: 768px;
+
+    
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    display: flex;
+
+    margin: auto;
+  
+  /* padding: 10px; */
+}
+
+
+.image-container{
+    width: 559.859px;
+    height: 768px;
+
+
+    
+}
+
+.photo{
+    width: 559.859px;
+    height: 768px;
+    
+}
+
+
+.text-container{
+
+    margin-left: 50px;
+}
+
+h4{
+    color: yellow;
+}
+
+h1{
+    color: blue;
+}

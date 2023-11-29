@@ -1,0 +1,100 @@
+
+
+/* h1
+{
+    color: blue;
+} */
+
+/* .auth-container{
+    width: 1440px;
+    height: 1024px;
+    background: #FAFCFE;
+    background-color: #FAFCFE;
+} */
+
+
+.verification-container{
+    width: 820px;
+    height: 468px;
+    display: flex;
+    border-radius: 50px;
+    background: #FFFF;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    margin-left: 300px;
+    margin-top: 200px;
+
+    margin-bottom: 200px;
+}
+
+
+.Code-box{
+margin-left: 40px;
+
+}
+
+
+.Text-Container{
+    padding: 20px;
+}
+
+.Image3-container{
+    
+    background: #F4F6F8;
+    width: 410px;
+    height: 468px;
+    border-radius: 50px;
+    
+}
+
+.Image3{
+    
+    width: 314px;
+    height: 400px;
+
+
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.Title-text{
+    color: #CA33F8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: 80px;
+
+}
+
+.sub-Text{
+    color: #3E4446;
+    font-family: Poppins;
+    font-size: 15px;
+
+}
+
+.Input-div{
+margin-top: 40px;
+
+
+
+}
+
+input{
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+
+    margin-left: 20px;
+}
+
+.btn-recieve{
+    align-items: center;
+}
+
+.recieve-code{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 12px;
+}
