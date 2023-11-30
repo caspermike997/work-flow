@@ -15,6 +15,7 @@ const Verification = () => {
             </div>
 
             <div className='Code-box'>
+              
                 <div className='Text-Container'>
                 <div className='Title-text'>Verification Code</div>
                 <div className='sub-Text'>Enter the verification code we just <br/> sent you on your email address .</div>

@@ -5,6 +5,13 @@ import Man from "../../assets/Man.jpeg"
 import Inputs from "../../Inputs/Input"
 
 
+// import React from 'react'
+// import "../Login/Login.css"
+// // import Image from "../../assets/image2"
+
+// import Image from "../../assets/Image2.jpeg"
+// // import { Checkbox } from 'primereact/checkbox'
+// import Button from '../../Inputs/Buttons/Button'
 
 
 
@@ -32,6 +39,9 @@ const SignUp = () => {
 
       
     </div>
+
+
+
   )
 }
 
