@@ -1,6 +1,7 @@
-import Login from "./components/Login/Login"
-import SignUp from "./components/SignUp/SignUp"
-import Verification from "./components/Verification/Verification"
+// import Login from "./components/Login/Login"
+// import SignUp from "./components/SignUp/SignUp"
+import UserProfile from "./components/UserProfile/UserProfile"
+// import Verification from "./components/Verification/Verification"
 
 function App() {
 
@@ -8,7 +9,9 @@ function App() {
     <>
      {/* <SignUp /> */}
 
-     <Login />
+     {/* <Login /> */}
+
+     <UserProfile />
 
      {/* <Verification /> */}
     </>

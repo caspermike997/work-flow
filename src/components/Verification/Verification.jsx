@@ -2,7 +2,7 @@ import React from 'react'
 import "../../components/Verification/Verification.css"
 import Image3 from "../../assets/Image3.png"
 import { EventBus } from 'primereact/utils'
-import Button from '../../Inputs/Buttons/Button'
+// import Button from '../../Inputs/Buttons/Button'
 
 
 

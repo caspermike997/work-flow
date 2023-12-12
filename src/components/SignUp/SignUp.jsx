@@ -2,7 +2,7 @@ import React from 'react'
 import "../SignUp/Sign.css"
 import Man from "../../assets/Man.jpeg"
 
-import Inputs from "../../Inputs/Input"
+// import Inputs from "../../Inputs/Input"
 
 
 // import React from 'react'
