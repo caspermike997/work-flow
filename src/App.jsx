@@ -1,8 +1,10 @@
 // import Login from "./components/Login/Login"
 // import SignUp from "./components/SignUp/SignUp"
-import UserProfile from "./components/UserProfile/UserProfile"
+// import EditProfile from "./components/EditProfile/EditProfile"
+// import UserProfile from "./components/UserProfile/UserProfile"
 // import Verification from "./components/Verification/Verification"
 
+import EditProject from "./components/EditProject/EditProject"
 function App() {
 
   return (
@@ -11,7 +13,9 @@ function App() {
 
      {/* <Login /> */}
 
-     <UserProfile />
+     {/* <UserProfile /> */}
+
+     <EditProject/>
 
      {/* <Verification /> */}
     </>
